@@ -1,5 +1,5 @@
 #summary Current project status
-#labels phase-Implementation
+#labels phase-Implementation,featured
 
 = Summary =
 
