@@ -15,4 +15,4 @@ The filter consists of three parts, which is necessary for an inverted error dif
 = What's left =
 The cikernels have been tested in Quartz Composer and work as expected. What's left to be done is an Image Unit which goes through the above steps. The iterations have to be equal to the number of pixels - may be lower depending on the image but no harm is done if too many iterations are performed.
 
-I may get to it when I find the time and/or enough people write concerned mails about it. Or, of course, anyone is welcome to carry the torch from here on.
+I will finish this thing as soon as the magical Vacant Weekend arrives, or when enough people write concerned mails about it. Or, of course, anyone is welcome to carry the torch from here on.
